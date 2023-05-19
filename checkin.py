@@ -13,8 +13,8 @@ username = "USER"
 password = "PWD"
 
 if(username == "USER" or password == "PWD"):
-    username = input("账号：USER")
-    password = input("密码：PWD")
+    username = input("账号：15605297035")
+    password = input("密码：Shwu@1984*")
 
 
 def main():
